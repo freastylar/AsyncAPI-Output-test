@@ -1,0 +1,1 @@
+{"properties":{"active":{"type":"boolean"},"humidity":{"format":"int32","type":"integer"},"sensorId":{"format":"uuid","type":"string"},"temperature":{"format":"float","type":"number"},"timestamp":{"format":"date-time","type":"string"}},"type":"object"}
